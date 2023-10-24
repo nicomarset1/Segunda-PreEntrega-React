@@ -1,19 +1,3 @@
-/*import NavBar from './components/NavBar/NavBar'
-import ItemListContainer from './components/ItemListContainer/ItemListContainer'
-
-function App() {
-
-  return (
-    <>
-    <NavBar/>
-    <ItemListContainer title='Catálogo'/>
-    </>
-  )
-}
-
-export default App
-*/
-
 import NavBar from './components/NavBar/NavBar'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 import { Routes, Route, BrowserRouter } from 'react-router-dom'
