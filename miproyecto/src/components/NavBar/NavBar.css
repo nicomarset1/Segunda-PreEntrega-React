@@ -1,0 +1,33 @@
+.logo{
+    max-width: 120px;
+    margin: 15px 0;
+}
+
+.logo:hover{
+    transform: scale(1.2);
+    transition: 1s ease-in-out;
+}
+
+.navbar{
+    border-bottom: 10px solid #F88E24;
+    padding: 0;
+}
+
+.container-fluid, .dropdown-menu{
+    background-color: #000C4F;
+}
+
+.nav-item{
+    margin: 0 50px;
+    font-size: 20px;
+}
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: #F88E24;
+    text-decoration: underline;
+    transform: scale(1.15);
+    transition: .3s ease-in-out;
+}
